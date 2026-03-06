@@ -1,1 +1,3 @@
-# Libspace-
+.env
+
+/node_modules
